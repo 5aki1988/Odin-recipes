@@ -1,0 +1,15 @@
+/*Center recipe listing & Title*/
+.title{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+/*Center Odin Logo*/
+div{
+    text-align: center;
+    font-size: 20px;
+}   
+/*Background color set to Light color*/
+body {
+    background-color: rgb(240, 222, 189);
+}
