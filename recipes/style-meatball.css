@@ -1,0 +1,16 @@
+/* Center Meatball title*/
+.titles {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+/* Center Meatball image*/
+div{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+/* Set background color to landing page background color*/
+body {
+    background-color: rgb(240, 222, 189);
+}
